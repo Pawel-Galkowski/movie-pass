@@ -1,4 +1,4 @@
-# Example movie site page
+# Movie pass - example movie page
 
 Page create as an example how movie page can be done. In one of the easiest way.
 
